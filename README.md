@@ -1,3 +1,5 @@
+Working app link: https://book-recommendation-using-clustering-algorithm-uhwcaappgyxqbbu.streamlit.app/
+
 ## 🧠 How It Works
 1. Data is collected from the **Book-Crossing Dataset**
 2. A **pivot table** is created with books as rows and users as columns
